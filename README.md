@@ -1,1 +1,3 @@
 # Dail-Kro
+
+A WEBSITE FOR ALL YOUR NEEDS
